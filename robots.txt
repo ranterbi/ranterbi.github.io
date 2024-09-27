@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ranterbi.github.io/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/app/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/assets/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/css/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/data/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/includes/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/item/sitemap.ranterbi.gz
+Sitemap: https://ranterbi.github.io/src/sitemap.ranterbi.gz
